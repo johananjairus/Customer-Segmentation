@@ -1,0 +1,6 @@
+Cluster,Average_Age,Average_Income,Average_Spending_Score,Customer_Count,Percentage_of_Total,Persona,Marketing_Strategy
+0,35.40350877192982,51.36842105263158,46.63157894736842,57,28.499999999999996,"Medium Income, Medium Spending (Standard / Moderate)","Engage with regular newsletters, generic store discount sales, reward-point programs, and popular mainstream products."
+1,31.307692307692307,87.48717948717949,81.17948717948718,39,19.5,"High Income, High Spending (Stars / Target Group)","Focus on premium product lines, exclusive loyalty rewards, high-end memberships, VIP events, and personalized high-value services."
+2,25.16,23.96,76.0,25,12.5,"Low Income, High Spending (Spendthrifts / Careless)","Promote trendy, budget-friendly items, flash sales, impulse-buy discounts, and installment-based payment options (e.g. BNPL)."
+3,53.44444444444444,41.22222222222222,38.06666666666667,45,22.5,"Low Income, Low Spending (Frugal / Conservative)","Focus on basic utility items, discount coupons, bulk purchase savings, and cost-effective value packs."
+4,42.05882352941177,88.3529411764706,18.0,34,17.0,"High Income, Low Spending (Careful / Sensible)","Target with quality assurance campaigns, long-term value propositions, cash-back rewards, and educational marketing about product reliability."
